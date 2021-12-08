@@ -1,0 +1,116 @@
+[
+    {
+        "id": "1",
+        "type":"skill",
+        "name":"nano swarm",
+        "image":"1.png",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "2",
+        "type":"skill",
+        "name":"alarm bot",
+        "image":"2.png",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "3",
+        "type":"skill",
+        "name":"turret bot",
+        "image":"3.png",
+         "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "4",
+        "type":"skill",
+        "name":"shock dart",
+        "image":"4.png",
+        "value":"150",
+        "currency":"cred"
+    },
+    {
+        "id": "5",
+        "type":"skill",
+        "name":"drone",
+        "image":"5.png",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "6",
+        "type":"gun",
+        "name":"vandal",
+        "image":"6.png",
+        "value":"2900",
+        "currency":"cred"
+    },
+    {
+        "id": "7",
+        "type":"gun",
+        "name":"phantom",
+        "image":"7.png",
+        "value":"2900",
+        "currency":"cred"
+    },
+    {
+        "id": "8",
+        "type":"gun",
+        "name":"classic",
+        "image":"8.png",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "9",
+        "type":"agent",
+        "name":"killjoy",
+        "image":"9.png",
+        "value":"5000",
+        "currency":"cred"
+    },
+    {
+        "id": "10",
+        "type":"agent",
+        "name":"jett",
+        "image":"10.png",
+        "value":"5000",
+        "currency":"cred"
+    },
+    {
+        "id": "11",
+        "type":"agent",
+        "name":"sage",
+        "image":"11.png",
+        "value":"5000",
+        "currency":"cred"
+    },
+    {
+        "id": "12",
+        "type":"agent",
+        "name":"breach",
+        "image":"12.png",
+        "value":"5000",
+        "currency":"cred"
+    },
+    {
+        "id": "13",
+        "type":"agent",
+        "name":"viper",
+        "image":"13.png",
+        "value":"5000",
+        "currency":"cred"
+    },
+    {
+        "id": "14",
+        "type":"agent",
+        "name":"yoiru",
+        "image":"14.png",
+        "value":"5000",
+        "currency":"cred"
+    }
+
+]
+    

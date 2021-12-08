@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "type":"skill",
+        "name":"nano swarm",
+        "imgae":"",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "2",
+        "type":"skill",
+        "name":"alarm bot",
+        "imgae":"",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "3",
+        "type":"skill",
+        "name":"turret bot",
+        "imgae":"",
+         "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "4",
+        "type":"skill",
+        "name":"shock dart",
+        "imgae":"",
+        "value":"150",
+        "currency":"cred"
+    },
+    {
+        "id": "5",
+        "type":"skill",
+        "name":"drone",
+        "imgae":"",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "6",
+        "type":"gun",
+        "name":"vandal",
+        "imgae":"",
+        "value":"2900",
+        "currency":"cred"
+    },
+    {
+        "id": "7",
+        "type":"gun",
+        "name":"phantom",
+        "imgae":"",
+        "value":"2900",
+        "currency":"cred"
+    },
+    {
+        "id": "8",
+        "type":"gun",
+        "name":"classic",
+        "imgae":"",
+        "value":"200",
+        "currency":"cred"
+    },
+    {
+        "id": "9",
+        "type":"agent",
+        "name":"killjoy",
+        "imgae":"",
+        "value":"5000",
+        "currency":"cred"
+    },
+    {
+        "id": "10",
+        "type":"agent",
+        "name":"jett",
+        "imgae":"",
+        "value":"5000",
+        "currency":"cred"
+    }
+   
+
+]
